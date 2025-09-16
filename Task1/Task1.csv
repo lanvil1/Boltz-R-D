@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"TerminalBlock_Altech_AK300-2_P5.00mm";1;"INPUT";;;
+2;"J2";"TerminalBlock_Altech_AK300-2_P5.00mm";1;"Output";;;
+3;"R3";"R_0603_1608Metric";1;"1kΩ";;;
+4;"R2";"R_0603_1608Metric";1;"11.8kΩ";;;
+5;"R1";"R_0603_1608Metric";1;"100kΩ";;;
+6;"L1";"L_1210_3225Metric";1;"10 uH";;;
+7;"IC1";"SON50P300X300X80-13N-D";1;"LMR51450FSQDRRRQ1";;;
+8;"C5";"C_0805_2012Metric";1;"44µF";;;
+9;"C4";"C_0603_1608Metric";1;"33pF";;;
+10;"C3";"C_0603_1608Metric";1;"100nF";;;
+11;"C2";"C_0805_2012Metric";1;"10µF";;;
+12;"C1";"C_0805_2012Metric";1;"0.1 µF";;;
